@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975327013231",
+    "project_id": "taller-app-ae097",
+    "storage_bucket": "taller-app-ae097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975327013231:android:aecdf0c80c6c42181a209a",
+        "android_client_info": {
+          "package_name": "com.example.u2s8_elias_fidel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluyi8A7pcyb7lRXR_jFUcUrTI8_McCts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
